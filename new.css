@@ -1,0 +1,6 @@
+div{
+    
+    transition: width 2s;
+
+    transform: translate(100px);
+}
